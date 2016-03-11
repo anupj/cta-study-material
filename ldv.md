@@ -24,7 +24,6 @@
 * [Salesforce Bulk Data Loads and Full-Text Search Indexes](https://developer.salesforce.com/blogs/engineering/2014/02/salesforce-bulk-data-loads-and-full-text-search-indexes.html) 
 * [The Salesforce Bulk API - Maximizing Parallelism and Throughput Performance When Integrating or Loading Large Data Volumes](https://developer.salesforce.com/page/The_Salesforce_Bulk_API_-_Maximizing_Parallelism_and_Throughput_Performance_When_Integrating_or_Loading_Large_Data_Volumes)
 * [Use PK Chunking to Extract Large Data Sets from Salesforce](https://developer.salesforce.com/blogs/engineering/2015/03/use-pk-chunking-extract-large-data-sets-salesforce.html)
-* 
 
 ## Help & Training
 * [How to improve "Inefficient Related Lists"](http://help.salesforce.com/HTViewSolution?id=000206401)
