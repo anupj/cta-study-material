@@ -13,8 +13,10 @@
 
 ## Articles
 
+* [Architect Salesforce Record Ownership Skew for Peak Performance in Large Data Volume Environments](https://developer.salesforce.com/blogs/engineering/2012/06/architect-salesforce-record-ownership-skew-for-peak-performance-in-large-data-volume-environments.html)
 * [Extracting Large Data Volumes (LDV) in Force.com](https://developer.salesforce.com/blogs/engineering/2013/06/extracting-large-data-volume-ldv-in-force-com.html)
 * [Force.com Batch Apex and Large Data Volumes](https://developer.salesforce.com/blogs/engineering/2013/02/force-com-batch-apex-and-large-data-volumes.html)
+* [Force.com Query Optimizer Secrets You Can Use Today](https://developer.salesforce.com/blogs/engineering/2013/12/force-com-query-optimizer-secrets-you-can-use-today.html)
 * [How Much Data Can the Salesforce Platform Handle? You Might Be Surprised!](https://developer.salesforce.com/blogs/engineering/2013/02/how-much-data-can-the-salesforce-platform-handle-you-might-be-surprised.html)
 * [Managing Lookup Skew in Salesforce to Avoid Record Lock Exceptions](https://developer.salesforce.com/blogs/engineering/2013/04/managing-lookup-skew-to-avoid-record-lock-exceptions.html)
 * [Reducing Lock Contention by Avoiding Account Data Skew](https://developer.salesforce.com/blogs/engineering/2013/01/reducing-lock-contention-by-avoiding-account-data-skews.html)
