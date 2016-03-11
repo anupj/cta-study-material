@@ -4,11 +4,11 @@
 * [Visualforce Performance: Best Practices](https://resources.docs.salesforce.com/sfdc/pdf/salesforce_visualforce_best_practices.pdf)
 
 ## Webinars
-
 * [Apex Enterprise Patterns: Building Strong Foundations](https://www.youtube.com/watch?v=qlq46AEAlLI)
 
 ## Articles
 
+* [A Guide to Application Performance Profiling in Force.com](https://developer.salesforce.com/page/A_Guide_to_Application_Performance_Profiling_in_Force.com)
 * [An Introduction to Visualforce View State](https://developer.salesforce.com/page/An_Introduction_to_Visualforce_View_State)
 
 ## Developer Documentation
