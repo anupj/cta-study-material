@@ -10,6 +10,7 @@
 * [Customising User Authentication with Login Flows](https://www.youtube.com/watch?v=gYes8OLAc-k)
 * [Salesforce Identity: Identity Management Made Easy](https://www.youtube.com/watch?v=gyITvOZJhtE)
 * [Seamless Authentication with Force.com Canvas](https://www.youtube.com/watch?v=fCvgyXjnnsY)
+* [Single Sign-On and User Management for Portals and Communities](https://www.youtube.com/watch?v=ig1X35ATcFQ)
 
 ## Articles
 
