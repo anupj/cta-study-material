@@ -7,6 +7,7 @@
 
 ## Webinars
 
+* [Enterprise Integration - Solution Patterns From the Field](https://www.youtube.com/watch?v=DBCuHM-Lw3E)
 * [Introduction to External Objects and the OData Connector](https://www.youtube.com/watch?v=67KIFdKshfs)
 * [Introduction to Force.com Canvas Apps](https://www.youtube.com/watch?v=K4HqJDVVMf0)
 * [Master Data Management Strategy for an Enterprise](https://www.youtube.com/watch?v=GYKydwlgZbI)
@@ -21,3 +22,7 @@
 
 * [Apex Developer Guide: Make Long-Running Callouts from a Visualforce Page](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_continuation_overview.htm)
 * [Apex Developer Guide: Named Credentials as Callout Endpoints](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials.htm)
+
+## Integration Security
+
+* [Making Authenticated Web Service Callouts Using Two-Way SSL](https://developer.salesforce.com/page/Making_Authenticated_Web_Service_Callouts_Using_Two-Way_SSL)
