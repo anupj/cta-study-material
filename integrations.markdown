@@ -3,6 +3,7 @@
 ## White Papers
 
 * [Integration Patterns and Practices](https://resources.docs.salesforce.com/sfdc/pdf/integration_patterns_and_practices.pdf)
+* [Integration Workbook](https://resources.docs.salesforce.com/sfdc/pdf/integration_workbook.pdf)
 
 ## Webinars
 
