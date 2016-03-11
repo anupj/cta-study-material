@@ -1,5 +1,8 @@
 #Development on Force.com
 
+## White Papers
+* [Visualforce Performance: Best Practices](https://resources.docs.salesforce.com/sfdc/pdf/salesforce_visualforce_best_practices.pdf)
+
 ## Webinars
 
 * [Apex Enterprise Patterns: Building Strong Foundations](https://www.youtube.com/watch?v=qlq46AEAlLI)
