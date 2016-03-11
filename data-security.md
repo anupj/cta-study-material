@@ -21,6 +21,11 @@
 * [Managing Group Membership Locks for Success](https://developer.salesforce.com/blogs/engineering/2012/09/%E2%80%9Cgroup-membership-operation-already-in-progress%E2%80%9D-%E2%80%93-managing-group-membership-locks-for-success.html)
 * [Salesforce Territory Management and Programmatic Sharing](https://developer.salesforce.com/blogs/engineering/2013/03/salesforce-territory-management-and-programmatic-sharing.html)
 
+## Developer Documentation
+
+* [Grant High-Volume Community Users Access to Records](https://developer.salesforce.com/docs/atlas.en-us.salesforce_communities_implementation.meta/salesforce_communities_implementation/networks_setting_light_users.htm)
+* [Share Records Owned By High-Volume Community Users](https://developer.salesforce.com/docs/atlas.en-us.salesforce_communities_implementation.meta/salesforce_communities_implementation/networks_sharing_light_users.htm)
+
 ## Help & Training
 
 * [Account Teams Overview] (https://help.salesforce.com/HTViewHelpDoc?id=accountteam_def.htm&language=en_US)
