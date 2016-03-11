@@ -8,6 +8,7 @@
 
 * [Multitenant Magic - Under the Covers of the Force.com Data Architecture
 Salesforce](https://www.youtube.com/watch?v=9OtdYeCAZ1A)
+* [SOQL Query Performance Tips and Tricks](https://www.youtube.com/watch?v=uyyXdEIieN4)
 * [Understanding Multitenancy and the Architecture of the Salesforce Platform](https://www.youtube.com/watch?v=jeysYua6ENs)
 
 ##Articles
