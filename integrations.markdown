@@ -6,6 +6,7 @@
 
 ## Webinars
 
+* [Introduction to External Objects and the OData Connector](https://www.youtube.com/watch?v=67KIFdKshfs)
 * [Introduction to Force.com Canvas Apps](https://www.youtube.com/watch?v=K4HqJDVVMf0)
 * [Master Data Management Strategy for an Enterprise](https://www.youtube.com/watch?v=GYKydwlgZbI)
 
