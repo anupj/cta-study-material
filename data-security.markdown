@@ -1,4 +1,4 @@
-# Sharing Architecture & Data Security
+# Data Security
 
 ## White Papers
 
