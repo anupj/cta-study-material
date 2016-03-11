@@ -26,5 +26,5 @@
 * [Use PK Chunking to Extract Large Data Sets from Salesforce](https://developer.salesforce.com/blogs/engineering/2015/03/use-pk-chunking-extract-large-data-sets-salesforce.html)
 * 
 
-Help & Training
+## Help & Training
 * [How to improve "Inefficient Related Lists"](http://help.salesforce.com/HTViewSolution?id=000206401)
