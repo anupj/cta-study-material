@@ -21,7 +21,7 @@
 * [Single Sign-On for Desktop and Mobile Applications using SAML and OAuth](http://wiki.developerforce.com/page/Single_Sign-On_for_Desktop_and_Mobile_Applications_using_SAML_and_OAuth)
 * [Single Sign-On with Force.com and Microsoft Active Directory Federation Services](http://wiki.developerforce.com/page/Single_Sign-On_with_Force.com_and_Microsoft_Active_Directory_Federation_Services)
 * [Single Sign-On with SAML on Force.com](https://developer.salesforce.com/page/Single_Sign-On_with_SAML_on_Force.com)
-* [Social Sign-On - Authentication Providers in Spring 12](https://developer.salesforce.com/blogs/developer-relations/2012/01/social-single-sign-on-authentication-providers-in-spring-12.html)
+* [Social Sign-On - Authentication Providers in Spring '12](https://developer.salesforce.com/blogs/developer-relations/2012/01/social-single-sign-on-authentication-providers-in-spring-12.html)
 * [Using OAuth to Authorize External Applications](https://developer.salesforce.com/page/Using_OAuth_to_Authorize_External_Applications)
 
 ## Developer Guide
