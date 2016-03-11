@@ -1,5 +1,9 @@
 #Platform Architecture
 
+## Workbooks & Cheatsheets
+* [Force.com Workbook](https://resources.docs.salesforce.com/sfdc/pdf/forcecom_workbook.pdf)
+* [Record Locking Cheatsheet](http://resources.docs.salesforce.com/194/0/en-us/sfdc/pdf/record_locking_cheatsheet.pdf)
+
 ##Webinars
 
 * [Multitenant Magic - Under the Covers of the Force.com Data Architecture
