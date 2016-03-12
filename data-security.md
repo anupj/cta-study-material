@@ -26,6 +26,10 @@
 * [Grant High-Volume Community Users Access to Records](https://developer.salesforce.com/docs/atlas.en-us.salesforce_communities_implementation.meta/salesforce_communities_implementation/networks_setting_light_users.htm)
 * [Share Records Owned By High-Volume Community Users](https://developer.salesforce.com/docs/atlas.en-us.salesforce_communities_implementation.meta/salesforce_communities_implementation/networks_sharing_light_users.htm)
 
+## Trailhead
+
+* [Trailhead: Data Security](https://developer.salesforce.com/trailhead/en/module/data_security)
+
 ## Help & Training
 
 * [Account Teams Overview] (https://help.salesforce.com/HTViewHelpDoc?id=accountteam_def.htm&language=en_US)
