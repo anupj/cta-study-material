@@ -17,4 +17,5 @@
 * [Triggers and Order of Execution](http://www.salesforce.com/us/developer/docs/apexcode/Content/apex_triggers_order_of_execution.htm)
 * [Order of Execution for Visualforce Page Get Requests](https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_controller_get_request.htm)
 * [Order of Execution for Visualforce Page Postback Requests](https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_controller_postback_request.htm)
+* [Force.com SOQL Best Practice: Sort Optimization](https://developer.salesforce.com/blogs/engineering/2014/03/force-com-soql-best-practice-sort-optimization.html)
 * [Working with Very Large SOQL Queries](http://www.salesforce.com/us/developer/docs/apexcode/Content/langCon_apex_SOQL_VLSQ.htm)
