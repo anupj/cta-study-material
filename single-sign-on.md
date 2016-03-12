@@ -1,5 +1,10 @@
 #Single Sign-On
 
+## Standards
+* [OAuth 2 Simplified](https://aaronparecki.com/2012/07/29/2/oauth2-simplified)
+* [OAuth 2 Specification](http://tools.ietf.org/html/draft-ietf-oauth-v2)
+* [SAML 2: The Building Blocks of Federated Identity](http://www.xml.com/pub/a/2005/01/12/saml2.html)
+
 ## Implementation Guides
 
 * [Single Sign-On Implementation Guide](http://resources.docs.salesforce.com/200/12/en-us/sfdc/pdf/salesforce_single_sign_on.pdf)
