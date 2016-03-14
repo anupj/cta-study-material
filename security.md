@@ -9,6 +9,7 @@
 ## Articles
 * [An Overview of Force.com Security](https://developer.salesforce.com/page/An_Overview_of_Force.com_Security)
 * [Secure Coding Guidelines](https://developer.salesforce.com/page/Secure_Coding_Guideline)
+* [Testing CRUD and FLS Enforcement](https://developer.salesforce.com/page/Testing_CRUD_and_FLS_Enforcement)
 
 ## Tools
 * [Security Self-Assessment](https://security.secure.force.com/security/tools/forcecom/assessment)
