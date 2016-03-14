@@ -7,6 +7,7 @@
 * [Manage Development in Your Org with Salesforce Governance Framework](https://www.youtube.com/watch?v=MrKifTuivpo)
 * [Centre of Excellence - CoE Workshop](http://salesforce.vidyard.com/watch/nYn_TxBcCNXPo7aO6Jx0Qw)
 * [Single or Multi-org: What's Right for My Deployment?](https://www.youtube.com/watch?v=3QS6Je2PsI0)
+* [What is the Right Org Architecture Strategy for your Enterprise?](https://www.youtube.com/watch?v=PZoUNb2OMfs)
 
 ## Articles
 
