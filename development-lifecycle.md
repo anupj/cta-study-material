@@ -7,9 +7,11 @@
 ## Webinars
 
 * [Agile Development in a Waterfall World: Best Practices for Release Management](https://www.youtube.com/watch?v=qkr1jyAU18w)
+* [How to Setup Continuous Integration With Git, Jenkins, and Force.com](https://www.youtube.com/watch?v=a0u1CBUsj_I)
 * [Release Management for Large Organizations](https://www.youtube.com/watch?v=_3YeKq00a8I)
 * [Salesforce API Series: Release Management with the Metadata API Webinar](https://www.youtube.com/watch?v=S_R0Tzp1HmY)
 * [Test Automation With Cucumber JVM, Selenium, and Mocha](https://www.youtube.com/watch?v=US39w9XwuP4)
+
 
 
 #Articles
