@@ -1,5 +1,9 @@
 # Solution Architecture
 
+## White Papers
+
+* [International Organizations: Using Multiple Currencies](http://resources.docs.salesforce.com/200/12/en-us/sfdc/pdf/salesforce_using_multiple_currencies.pdf)
+
 ## Webinars
 
 * [Developing on the Salesforce Platform With Clicks, Not Code](https://www.youtube.com/watch?v=q0RYzwNpqfY)
@@ -11,4 +15,6 @@
 ## Help & Training
 
 * [About Advanced Currency Management](https://help.salesforce.com/apex/HTViewHelpDoc?id=administration_about_advanced_currency_management.htm&language=en)
+* [Globalization Overview](https://help.salesforce.com/apex/HTViewHelpDoc?id=globalization_overview.htm&language=en)
+* [](https://help.salesforce.com/apex/HTViewHelpDoc?id=faq_getstart_what_languages_does.htm&language=en)
 * [Differences Between Files, Salesforce CRM Content, Salesforce Knowledge, Documents, and Attachments](http://help.salesforce.com/HTViewHelpDoc?id=collab_files_differences.htm&language=en_US)
