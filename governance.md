@@ -11,3 +11,4 @@
 ## Articles
 
 * [Enterprise Architecture: Single-org versus Multi-org Strategy](https://developer.salesforce.com/blogs/developer-relations/2014/10/enterprise-architecture-multi-org-strategy.html)
+* [Ten Common Mistakes Architects Make When Building a Force.com Application](https://developer.salesforce.com/page/10_Common_Mistakes_Architects_Make)
