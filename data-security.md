@@ -9,12 +9,12 @@
 ## Implementation Guides
 
 * [Enterprise Territory Management Implementation Guide](http://resources.docs.salesforce.com/200/12/en-us/sfdc/pdf/salesforce_implementing_territory_mgmt2_guide.pdf) 
-* [How Salesforce Does Data Protection and Backup](https://www.youtube.com/watch?v=VPwIeGJ3fQY)
 * [Territory Management Decision Guide](https://resources.docs.salesforce.com/sfdc/pdf/tm_decision_guide.pdf)
 * [Understanding Defer Sharing Calculations] (https://resources.docs.salesforce.com/200/latest/en-us/sfdc/pdf/salesforce_defer_sharing_tipsheet.pdf)
 
 ## Webinars
 
+* [How Salesforce Does Data Protection and Backup](https://www.youtube.com/watch?v=VPwIeGJ3fQY)
 * [Introduction to the Salesforce Security Model](https://www.youtube.com/watch?v=c1ccSXlVjXk)
 
 ## Articles
