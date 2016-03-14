@@ -8,6 +8,7 @@
 ## Webinars
 
 * [Enterprise Integration - Solution Patterns From the Field](https://www.youtube.com/watch?v=DBCuHM-Lw3E)
+* [Introduction to Data.com APIs](https://www.youtube.com/watch?v=Tc1NzTEge0U)
 * [Introduction to External Objects and the OData Connector](https://www.youtube.com/watch?v=67KIFdKshfs)
 * [Introduction to Force.com Canvas Apps](https://www.youtube.com/watch?v=K4HqJDVVMf0)
 * [Master Data Management Strategy for an Enterprise](https://www.youtube.com/watch?v=GYKydwlgZbI)
