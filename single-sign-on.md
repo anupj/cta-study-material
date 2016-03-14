@@ -16,6 +16,7 @@
 * [Salesforce Identity: Identity Management Made Easy](https://www.youtube.com/watch?v=gyITvOZJhtE)
 * [Seamless Authentication with Force.com Canvas](https://www.youtube.com/watch?v=fCvgyXjnnsY)
 * [Single Sign-On and User Management for Portals and Communities](https://www.youtube.com/watch?v=ig1X35ATcFQ)
+* [Social Single Sign-On with OpenID Connect](https://www.youtube.com/watch?v=XIFMnzbG5Ew)
 
 ## Articles
 
