@@ -14,7 +14,7 @@ Salesforce](https://www.youtube.com/watch?v=9OtdYeCAZ1A)
 * [Understanding Multitenancy and the Architecture of the Salesforce Platform](https://www.youtube.com/watch?v=jeysYua6ENs)
 
 ##Articles
-
+* [An Introduction to the Force.com Database](https://developer.salesforce.com/page/An_Introduction_to_Force_Database)
 * [Dealing with Exception Filters in Force.com](https://developer.salesforce.com/blogs/engineering/2013/05/dealing-with-exception-filters-in-force-com.html)
 * [Developing Selective Force.com Queries through the Query Resource Feedback Parameter Beta](https://developer.salesforce.com/page/Developing_Selective_Force.com_Queries_through_the_Query_Resource_Feedback_Parameter_Pilot)
 * [Force.com Formula Fields, Indexes, and Performance Gotchas](https://developer.salesforce.com/blogs/engineering/2013/03/force-com-formula-fields-indexes-and-performance-gotchas.html)
