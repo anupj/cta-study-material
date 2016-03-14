@@ -37,3 +37,4 @@
 * [Built-in Sharing Behaviour] (https://help.salesforce.com/HTViewHelpDoc?id=sharing_across_objects.htm&language=en_US)
 * [Platform Encryption](https://help.salesforce.com/HTViewHelpDoc?id=security_pe_overview.htm)
 * [Territory Management Best Practices](http://help.salesforce.com/HTViewSolution?id=000220119&language=en_US)
+* [Understanding Sharing](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_bulk_sharing_understanding.htm)
