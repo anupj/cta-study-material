@@ -17,7 +17,7 @@
 * [Introduction to the Salesforce Security Model](https://www.youtube.com/watch?v=c1ccSXlVjXk)
 
 ## Articles
-
+* [Architect Salesforce Record Ownership Skew for Peak Performance in Large Data Volume Environments](https://developer.salesforce.com/blogs/engineering/2012/06/architect-salesforce-record-ownership-skew-for-peak-performance-in-large-data-volume-environments.html)
 * [Behind the Scenes of Record Ownership in Salesforce](https://developer.salesforce.com/blogs/engineering/2013/10/behind-the-scenes-of-record-ownership-in-salesforce.html)
 * [Managing Group Membership Locks for Success](https://developer.salesforce.com/blogs/engineering/2012/09/%E2%80%9Cgroup-membership-operation-already-in-progress%E2%80%9D-%E2%80%93-managing-group-membership-locks-for-success.html)
 * [Salesforce Territory Management and Programmatic Sharing](https://developer.salesforce.com/blogs/engineering/2013/03/salesforce-territory-management-and-programmatic-sharing.html)
