@@ -11,6 +11,7 @@
 * [Apex Design Patterns](https://www.youtube.com/watch?v=tsa8Z2S1Agc)
 * [Apex Enterprise Patterns: Building Strong Foundations](https://www.youtube.com/watch?v=qlq46AEAlLI)
 * [Custom Platform](http://dreamforce.vidyard.com/watch/Wzzbh7ebd1PgNRBllkwQ8g) (Custom Metadata Types)
+* [Partner User Groups: Apex Design Patterns for Managed Packages](https://www.youtube.com/watch?v=2o_QT4BXjsY)
 * [Performance Tuning for Visualforce and Apex](https://www.youtube.com/watch?v=aYMY2VES2bY)
 
 ## Articles
