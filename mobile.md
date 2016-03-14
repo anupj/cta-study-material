@@ -6,6 +6,7 @@
 
 ## Webinars
 * [Intro to Salesforce Mobile SDK: Building Hybrid Apps Webinar](https://www.youtube.com/watch?v=ipzK8Jok2gM)
+* [Introducing Aura: Rapid Mobile Development with Reusable Components](https://www.youtube.com/watch?v=hYPTlCoKvmo)
 
 ## Articles
 
