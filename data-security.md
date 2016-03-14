@@ -9,6 +9,7 @@
 ## Implementation Guides
 
 * [Enterprise Territory Management Implementation Guide](http://resources.docs.salesforce.com/200/12/en-us/sfdc/pdf/salesforce_implementing_territory_mgmt2_guide.pdf) 
+* [Territory Management Decision Guide](https://resources.docs.salesforce.com/sfdc/pdf/tm_decision_guide.pdf)
 * [Understanding Defer Sharing Calculations] (https://resources.docs.salesforce.com/200/latest/en-us/sfdc/pdf/salesforce_defer_sharing_tipsheet.pdf)
 
 ## Webinars
