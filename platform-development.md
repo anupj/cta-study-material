@@ -10,6 +10,7 @@
 ## Webinars
 * [Apex Enterprise Patterns: Building Strong Foundations](https://www.youtube.com/watch?v=qlq46AEAlLI)
 * [Custom Platform](http://dreamforce.vidyard.com/watch/Wzzbh7ebd1PgNRBllkwQ8g) (Custom Metadata Types)
+* [Performance Tuning for Visualforce and Apex](https://www.youtube.com/watch?v=aYMY2VES2bY)
 
 ## Articles
 
