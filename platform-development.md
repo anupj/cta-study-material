@@ -2,9 +2,14 @@
 
 ## White Papers
 * [Visualforce Performance: Best Practices](https://resources.docs.salesforce.com/sfdc/pdf/salesforce_visualforce_best_practices.pdf)
+ 
+
+## Implementation Guides
+* [Custom Metadata Implementation Guide](http://resources.docs.salesforce.com/200/9/en-us/sfdc/pdf/custom_metadata_types_impl_guide.pdf)
 
 ## Webinars
 * [Apex Enterprise Patterns: Building Strong Foundations](https://www.youtube.com/watch?v=qlq46AEAlLI)
+* [Custom Platform](http://dreamforce.vidyard.com/watch/Wzzbh7ebd1PgNRBllkwQ8g) (Custom Metadata Types)
 
 ## Articles
 
