@@ -5,8 +5,8 @@
 * [International Organizations: Using Multiple Currencies](http://resources.docs.salesforce.com/200/12/en-us/sfdc/pdf/salesforce_using_multiple_currencies.pdf)
 
 ## Webinars
-
 * [Developing on the Salesforce Platform With Clicks, Not Code](https://www.youtube.com/watch?v=q0RYzwNpqfY)
+* [Make SharePoint Social and Mobile with Salesforce Files](https://www.youtube.com/watch?v=fanSiolm8WM)
 * [UI/ UX Patterns](https://www.youtube.com/watch?v=MXD8U4UCMHs)
 
 ## Independent Articles
