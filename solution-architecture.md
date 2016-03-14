@@ -10,4 +10,5 @@
 
 ## Help & Training
 
+* [About Advanced Currency Management](https://help.salesforce.com/apex/HTViewHelpDoc?id=administration_about_advanced_currency_management.htm&language=en)
 * [Differences Between Files, Salesforce CRM Content, Salesforce Knowledge, Documents, and Attachments](http://help.salesforce.com/HTViewHelpDoc?id=collab_files_differences.htm&language=en_US)
