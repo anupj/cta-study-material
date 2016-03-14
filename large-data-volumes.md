@@ -3,6 +3,8 @@
 ## White Papers
 
 * [Best Practices for Deployments with Large Data Volumes](http://www.salesforce.com/docs/en/cce/ldv_deployments/salesforce_large_data_volumes_bp.pdf)
+* [Maximising Report Performance](https://resources.docs.salesforce.com/188/latest/en-us/sfdc/pdf/salesforce_reportperformance_cheatsheet.pdf)
+* [Top 10 ways to run reports faster](http://resources.docs.salesforce.com/198/16/en-us/sfdc/pdf/salesforce_reportperformance_cheatsheet.pdf)
 
 ## Webinars
 
