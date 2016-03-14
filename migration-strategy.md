@@ -10,3 +10,4 @@
 * [Salesforce Extreme Data Loading, Part 4: Sequencing Load Operations](https://developer.salesforce.com/blogs/engineering/2013/06/extreme-force-com-data-loading-part-4-sequencing-load-operations.html)
 * [Salesforce Extreme Data Loading, Part 5: Loading and Extracting Data](https://developer.salesforce.com/blogs/engineering/2013/08/extreme-force-com-data-loading-part-5-loading-and-extracting-bulk-data.html)
 * [Salesforce Extreme Data Loading, Part 6: Taking Advantage of Deferred Sharing Calculations](https://developer.salesforce.com/blogs/engineering/2013/08/extreme-force-com-data-loading-part-6-taking-advantage-of-deferred-sharing-calculation.html)
+* [The Salesforce Bulk API - Maximizing Parallelism and Throughput Performance When Integrating or Loading Large Data Volumes](https://developer.salesforce.com/page/The_Salesforce_Bulk_API_-_Maximizing_Parallelism_and_Throughput_Performance_When_Integrating_or_Loading_Large_Data_Volumes)
