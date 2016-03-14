@@ -10,6 +10,7 @@
 * [Custom Platform](http://dreamforce.vidyard.com/watch/Wzzbh7ebd1PgNRBllkwQ8g)
 * [Multitenant Magic - Under the Covers of the Force.com Data Architecture
 Salesforce](https://www.youtube.com/watch?v=9OtdYeCAZ1A)
+* [Salesforce Platform Encryption Whiteboard](https://www.youtube.com/watch?v=LdPC7xT98Hg)
 * [SOQL Query Performance Tips and Tricks](https://www.youtube.com/watch?v=uyyXdEIieN4)
 * [Understanding Multitenancy and the Architecture of the Salesforce Platform](https://www.youtube.com/watch?v=jeysYua6ENs)
 
