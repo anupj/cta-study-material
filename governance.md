@@ -1,5 +1,8 @@
 #Governance
 
+## White Papers
+* [9 Steps to Effective Change Management](https://help.salesforce.com/servlet/servlet.FileDownload?file=015300000034dZeAAI)
+
 ## Webinars
 
 * [Architecting Multi-Org Solutions](https://www.youtube.com/watch?v=E_rMlAf5KrQ)
