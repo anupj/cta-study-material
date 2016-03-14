@@ -14,6 +14,7 @@ Salesforce](https://www.youtube.com/watch?v=9OtdYeCAZ1A)
 
 ##Articles
 
+* [Dealing with Exception Filters in Force.com](https://developer.salesforce.com/blogs/engineering/2013/05/dealing-with-exception-filters-in-force-com.html)
 * [Developing Selective Force.com Queries through the Query Resource Feedback Parameter Beta](https://developer.salesforce.com/page/Developing_Selective_Force.com_Queries_through_the_Query_Resource_Feedback_Parameter_Pilot)
 * [Force.com Formula Fields, Indexes, and Performance Gotchas](https://developer.salesforce.com/blogs/engineering/2013/03/force-com-formula-fields-indexes-and-performance-gotchas.html)
 * [Force.com Query Optimizer Secrets You Can Use Today](https://developer.salesforce.com/blogs/engineering/2013/12/force-com-query-optimizer-secrets-you-can-use-today.html)
