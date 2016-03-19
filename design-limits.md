@@ -17,6 +17,8 @@ This table summarises the fundamental design limits that an architect should kee
 | Line of demarcation: LDV (upper)               | 100'000'000             | Object           |
 | Data Skews: max records owned                  | 10'000 records          | User             |
 | Data Skews: max child records per parent       | 10'000 child records    | Parent record    |
+| Number of mass emails                          | 1000                    | Day              |
+| Number of emails sent via workflows            | 2'000'000               | Day              |
 | Apex Callouts                                  | 100                     | Transaction      |
 | Apex Callout Timeout                           | 120 seconds             | Transaction      |
 | Knowledge articles                             | 50'000                  | Org              |
@@ -32,3 +34,7 @@ This table summarises the fundamental design limits that an architect should kee
 | Chatter file size                              | 2 GB                    | File             |
 | Document file size                             | 5 MB                    | File             |
 | Max fields in a Skinny Table                   | 100                     | Skinny Table     |
+| Concurrent API requests (less than 20s)        | Unlimited               | Org              |
+| Concurrent API requests (more than 20s)        | 25                      | Org              |
+| SOAP/REST API throughput (Read:Write)          | 10:2 million records    | Hour             |
+| Bulk API throughput (Read:Write)               | 60:20 million records   | Hour             |
