@@ -36,5 +36,16 @@ This table summarises the fundamental design limits that an architect should kee
 | Max fields in a Skinny Table                   | 100                     | Skinny Table     |
 | Concurrent API requests (less than 20s)        | Unlimited               | Org              |
 | Concurrent API requests (more than 20s)        | 25                      | Org              |
-| SOAP/REST API throughput (Read:Write)          | 10:2 million records    | Hour             |
+| SOAP & REST API throughput (Read:Write)        | 10:2 million records    | Hour             |
 | Bulk API throughput (Read:Write)               | 60:20 million records   | Hour             |
+| SOAP API max batch size                        | 2000 records            | Batch            |
+| REST API max batch size                        | 200 records             | Batch            |
+| Bulk API max batch size                        | 10'000 records          | Batch            |
+| Bulk API max jobs                              | 5'000 jobs              | Day              |
+| Streaming API - max PushTopics                 | 100                     | Org              |
+| Streaming API - topic subscribers              | 2'000                   | Topic            |
+| Data Storage - Developer Sandbox               | 200 MB                  | Sandbox          |
+| Data Storage - Developer Pro Sandbox           | 1 GB                    | Sandbox          |
+| Data Storage - Partial Copy Sandbox            | 5 GB                    | Sandbox          |
+| Data Storage - Full Copy Sandbox               | Unlimited               | Sandbox          |
+
