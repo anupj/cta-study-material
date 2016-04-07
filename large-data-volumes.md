@@ -3,8 +3,10 @@
 ## White Papers
 
 * [Best Practices for Deployments with Large Data Volumes](http://www.salesforce.com/docs/en/cce/ldv_deployments/salesforce_large_data_volumes_bp.pdf)
+* [Big Objects Implementation Guide](http://resources.docs.salesforce.com/198/0/en-us/sfdc/pdf/big_object_impl_guide.pdf)
 * [Maximising Report Performance](https://resources.docs.salesforce.com/188/latest/en-us/sfdc/pdf/salesforce_reportperformance_cheatsheet.pdf)
 * [Top 10 ways to run reports faster](http://resources.docs.salesforce.com/198/16/en-us/sfdc/pdf/salesforce_reportperformance_cheatsheet.pdf)
+
 
 ## Webinars
 
@@ -27,6 +29,7 @@
 * [Salesforce Bulk Data Loads and Full-Text Search Indexes](https://developer.salesforce.com/blogs/engineering/2014/02/salesforce-bulk-data-loads-and-full-text-search-indexes.html) 
 * [The Salesforce Bulk API - Maximizing Parallelism and Throughput Performance When Integrating or Loading Large Data Volumes](https://developer.salesforce.com/page/The_Salesforce_Bulk_API_-_Maximizing_Parallelism_and_Throughput_Performance_When_Integrating_or_Loading_Large_Data_Volumes)
 * [Use PK Chunking to Extract Large Data Sets from Salesforce](https://developer.salesforce.com/blogs/engineering/2015/03/use-pk-chunking-extract-large-data-sets-salesforce.html)
+
 
 ## Help & Training
 * [How to improve "Inefficient Related Lists"](http://help.salesforce.com/HTViewSolution?id=000206401)
