@@ -17,6 +17,7 @@
 
 
 ### Queries
+* [Make SOQL query selective](https://help.salesforce.com/apex/HTViewSolution?urlname=How-to-make-my-SOQL-query-selective&language=en_US)
 * [Force.com Query Optimizer Secrets You Can Use Today](https://developer.salesforce.com/blogs/engineering/2013/12/force-com-query-optimizer-secrets-you-can-use-today.html)
 * [Force.com SOQL Best Practice: Sort Optimization](https://developer.salesforce.com/blogs/engineering/2014/03/force-com-soql-best-practice-sort-optimization.html)
 * [Force.com SOQL Performance Tips: LastModifiedDate vs SystemModStamp](https://developer.salesforce.com/blogs/engineering/2014/11/force-com-soql-performance-tips-systemmodstamp-vs-lastmodifieddate-2.html)
