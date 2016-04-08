@@ -7,6 +7,7 @@
 * [Apex Performance Troubleshooting](https://developer.salesforce.com/blogs/engineering/2014/09/apex-performance-troubleshooting.html)
 * [Force.com Performance Profiling Using the Developer Console](https://developer.salesforce.com/blogs/engineering/2013/05/force-com-performance-profiling-using-the-developer-console.html)
 * [Performance Testing Force.com Applications](https://developer.salesforce.com/blogs/engineering/2013/09/performance-testing-force-com-application.html)
+* [Use the Query Plan Tool to optimise queries on LDV](https://help.salesforce.com/apex/HTViewSolution?id=000199003&language=en_US)
 
 ## Optimisation Techniques
 
