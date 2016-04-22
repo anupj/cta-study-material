@@ -7,7 +7,7 @@
 
 ## Webinars & Videos
 
-* [Access External Data in Real-time with Lightning Connecthttps://www.youtube.com/watch?v=67KIFdKshfs](https://www.youtube.com/watch?v=i2CA-gT5Mm8)
+* [Access External Data in Real-time with Lightning Connect](https://www.youtube.com/watch?v=i2CA-gT5Mm8)
 * [Enterprise Integration - Solution Patterns From the Field](https://www.youtube.com/watch?v=DBCuHM-Lw3E)
 * [Introduction to Data.com APIs](https://www.youtube.com/watch?v=Tc1NzTEge0U)
 * [Apex Connector for Lightning Connect: Make Anything a Salesforce Object](https://www.youtube.com/watch?v=W7Tfru19nS0)
