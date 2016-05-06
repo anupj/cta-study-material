@@ -1,5 +1,5 @@
 ## Generic Security Concepts
-* What is a X509 Certificate
+* What is a [X509 Certificate](https://en.wikipedia.org/wiki/X.509)
 * What is the flow of SSL handshake at transport layer
 * What is the flow of dual-SSL handshake at transport layer
 
