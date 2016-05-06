@@ -1,9 +1,26 @@
 
 # Large Data Volumes
+* What is the line of demarcation for LDV.
 * What is the impact of large data volumes.
-* What is the impact of data skew.
-* What is the impact of ownership skew.
+
+## Skews
+
+### Data Skews
+* What is data skew and give an example.
+* List all the things affected by a data skew problem.
+* List all the mitigations for a data swek problem.
+
+### Ownership Skews
+* What is a ownership skew and give an example.
+* List all the things affected by a ownership skew problem.
+* List all the mitigations for a ownership skew problem.
+
+### Lookup Skews
 * What is the impact of lookup skews.
+* List all the things affected by a lookup skew problem.
+* List all the mitigations for a lookup skew problem.
+
+# Platform
 * How does sharing work in the platform and give an example.
 * How does selectiveness work and give an example.
 
