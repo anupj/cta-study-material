@@ -28,6 +28,7 @@
 # Platform
 * How does sharing work in the platform and give an example.
 * How does selectiveness work and give an example.
+* Order of execution of things within a transaction.
 
 # SSO Flows
 You must be able to draw all the following flows, with swimlanes diagrams.
