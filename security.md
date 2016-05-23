@@ -3,6 +3,9 @@
 ## White Papers
 * [Salesforce Security Guide](https://help.salesforce.com/help/pdfs/en/salesforce_security_impl_guide.pdf)
 
+## Webinars
+* [Salesforce Shield Webcast](https://www.salesforce.com/form/conf/webinar-platform-trust-security.jsp)
+
 ## Cheatsheets
 * [Security for Developers Cheatsheet](http://resources.docs.salesforce.com/rel1/doc/en-us/static/pdf/SF_Security_Developer_cheatsheet_web.pdf)
 
