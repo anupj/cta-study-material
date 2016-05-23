@@ -6,6 +6,7 @@
 
 ## Webinars
 * [Salesforce Shield Webcast](https://www.salesforce.com/form/conf/webinar-platform-trust-security.jsp)
+* [Salesforce App Cloud: Introduction to Platform Encryption](https://www.youtube.com/watch?v=PK1sLlCC3I8)
 
 ## Cheatsheets
 * [Security for Developers Cheatsheet](http://resources.docs.salesforce.com/rel1/doc/en-us/static/pdf/SF_Security_Developer_cheatsheet_web.pdf)
