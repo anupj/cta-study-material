@@ -9,7 +9,7 @@ This table summarises the fundamental design limits that an architect should kee
 | Roles                                          | 1'000                   | Org              |
 | Territories                                    | 1'000                   | Org              |
 | Territory assignment rules                     | 15                      | Territory        |
-| Groups                                         | Unlimited               | Org              |
+| Groups                                         | 100'000                 | Org              |
 | Account-Territory sharing rules                | 300                     | Org              |
 | Owner-based sharing rules                      | 300                     | Object           |
 | Criteria-based sharing rules                   | 50                      | Object           |
