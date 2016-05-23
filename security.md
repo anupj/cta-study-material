@@ -2,6 +2,7 @@
 
 ## White Papers
 * [Salesforce Security Guide](https://help.salesforce.com/help/pdfs/en/salesforce_security_impl_guide.pdf)
+* [Platform Encryption Architecture](https://www.salesforce.com/uk/form/conf/platform-encryption-architecture.jsp)
 
 ## Webinars
 * [Salesforce Shield Webcast](https://www.salesforce.com/form/conf/webinar-platform-trust-security.jsp)
