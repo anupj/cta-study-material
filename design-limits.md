@@ -36,8 +36,9 @@ This table summarises the fundamental design limits that an architect should kee
 | Max fields in a Skinny Table                   | 100                     | Skinny Table     |
 | Concurrent API requests (less than 20s)        | Unlimited               | Org              |
 | Concurrent API requests (more than 20s)        | 25                      | Org              |
-| SOAP & REST API throughput (Read:Write)        | 10:2 million records    | Hour             |
-| Bulk API throughput (Read:Write)               | 60:20 million records   | Hour             |
+| Benchmark - Transaction duration               | 300 ms                  | Transaction      |
+| Benchmark - SOAP/REST API throughput (R:W)     | 10:2 million records    | Hour             |
+| Benchmark - Bulk API throughput (R:W)          | 60:20 million records   | Hour             |
 | SOAP API max batch size                        | 2,000 records           | Batch            |
 | REST API max batch size                        | 200 records             | Batch            |
 | Bulk API max batch size                        | 10,000 records          | Batch            |
