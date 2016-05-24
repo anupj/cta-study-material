@@ -42,6 +42,10 @@
 # SSO Flows
 You must be able to draw all the following flows, with swimlanes diagrams.
 
+## Security
+* What are the possible approaches to store PII?
+* What are the possible approaches to store a secret?
+
 ## SAML
  * SAML SP-initiated flow
  * SAML IDP-initiated flow
