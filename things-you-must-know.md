@@ -49,8 +49,9 @@ You must be able to draw all the following flows, with swimlanes diagrams.
 ## OAuth
 * Web Server Flow
 * User-Agent Flow
+* Username/Password Flow
 * JWT-Bearer Token Flow
-* SAML-Bearer Assertion Flow
+* SAML-Bearer Token Assertion Flow
  
 ## Other
 * OpenID Connect flow
