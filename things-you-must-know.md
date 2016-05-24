@@ -13,6 +13,11 @@
 
 ## Skews
 
+### Record locking
+* How record locking works on Master-Details
+* How record locking works on Account-Contact
+* How record locking works on lookups
+
 ### Data Skews
 * What is data skew and give an example.
 * List all the things affected by a data skew problem.
