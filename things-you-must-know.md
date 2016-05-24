@@ -45,6 +45,8 @@ You must be able to draw all the following flows, with swimlanes diagrams.
 ## Security
 * What are the possible approaches to store PII?
 * What are the possible approaches to store a secret?
+* List the key vulnerabilities that might affect a SFDC implementation
+* For every vulnerability identify mitigations
 
 ## SAML
  * SAML SP-initiated flow
