@@ -2,8 +2,8 @@
 * What is a [X509 Certificate](https://en.wikipedia.org/wiki/X.509)
 * What is the flow of SSL handshake at transport layer
 * What is the flow of dual-SSL handshake at transport layer
+* How trust is established between systems using certificates
 * What is SAML
- *  how trust is established between systems
  *  what is the realm-discovery problem, when it's relevant and how it is resolved
 
 
@@ -51,6 +51,7 @@ You must be able to draw all the following flows, with swimlanes diagrams.
 ## SAML
  * SAML SP-initiated flow
  * SAML IDP-initiated flow
+ * Canvas App using SAML
  
 ## OAuth
 * Web Server Flow
@@ -58,7 +59,9 @@ You must be able to draw all the following flows, with swimlanes diagrams.
 * Username/Password Flow
 * JWT-Bearer Token Flow
 * SAML-Bearer Token Assertion Flow
+* Canvas Apps using OAuth
  
 ## Other
 * OpenID Connect flow
-* SAML+OAuth combined flow 
+* SAML+OAuth combined flow
+
