@@ -14,6 +14,7 @@
 * [Idempotent Services in SOA](https://www.youtube.com/watch?v=_7YvkPzgfHM)
 * [Introduction to External Objects and the OData Connector](https://www.youtube.com/watch?v=67KIFdKshfs)
 * [Introduction to Force.com Canvas Apps](https://www.youtube.com/watch?v=K4HqJDVVMf0)
+* [Lightning Out: components for the rest of the world](https://www.youtube.com/watch?v=gGVfGIFFEIc)
 * [Master Data Management Strategy for an Enterprise](https://www.youtube.com/watch?v=GYKydwlgZbI)
 * [Building an Enterprise MDM Strategy](https://www.youtube.com/watch?v=b8n9SHoIKyQ)
 * [Unite Customer-Facing Apps with a Salesforce Backend: Heroku Connect in Practice](https://www.youtube.com/watch?v=iriLxZXvDX8) (Data.com API, Heroku Connect)
