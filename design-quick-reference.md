@@ -1,6 +1,7 @@
-# Design Limits Quick Reference
-This table summarises the fundamental design limits that an architect should keep in mind when designing a solution on the Salesforce platform.
+# Design Quick Reference
+This table summarises the fundamental design limits and benchmarks that an architect should keep in mind when designing a solution on the Salesforce platform.
 
+## Design Limits
 | What                                           |         Limit           |           Per    |
 | ---------------------------------------------- | ----------------------: | ---------------: |
 | Customer Community Users                       | 10,000,000              | Org              |
@@ -15,9 +16,11 @@ This table summarises the fundamental design limits that an architect should kee
 | Criteria-based sharing rules                   | 50                      | Object           |
 | Line of demarcation: LDV (lower)               | 2,000,000               | Object           |
 | Line of demarcation: LDV (upper)               | 100,000,000             | Object           |
+| Line of demarcation: Wave (commercial limit)   | 250,000,000             | Object           |
 | Data Skews: max records owned                  | 10,000 records          | User             |
 | Data Skews: max child records per parent       | 10,000 child records    | Parent record    |
 | Number of mass emails                          | 1,000                   | Day              |
+| Number of emails sent via Apex                 | 1,000                   | Day              |
 | Number of emails sent via workflows            | 2,000,000               | Day              |
 | Apex Callouts                                  | 100                     | Transaction      |
 | Apex Callout Timeout                           | 120 seconds             | Transaction      |
@@ -36,9 +39,6 @@ This table summarises the fundamental design limits that an architect should kee
 | Max fields in a Skinny Table                   | 100                     | Skinny Table     |
 | Concurrent API requests (less than 20s)        | Unlimited               | Org              |
 | Concurrent API requests (more than 20s)        | 25                      | Org              |
-| Benchmark - Transaction duration               | 300 ms                  | Transaction      |
-| Benchmark - SOAP/REST API throughput (R:W)     | 10:2 million records    | Hour             |
-| Benchmark - Bulk API throughput (R:W)          | 60:20 million records   | Hour             |
 | SOAP API max batch size                        | 2,000 records           | Batch            |
 | REST API max batch size                        | 200 records             | Batch            |
 | Bulk API max batch size                        | 10,000 records          | Batch            |
@@ -49,8 +49,24 @@ This table summarises the fundamental design limits that an architect should kee
 | Data Storage - Developer Pro Sandbox           | 1 GB                    | Sandbox          |
 | Data Storage - Partial Copy Sandbox            | 5 GB                    | Sandbox          |
 | Data Storage - Full Copy Sandbox               | Unlimited               | Sandbox          |
-| Standard indexes - threshold                   | 30% of matched records  | query            |
+| Standard indexes - threshold                   | 30% of records          | query            |
 | Standard indexes - cutoff (index not used)     | 1,000,000 records       | query            |
-| Custom indexes - threshold                     | 10% of matched records  | query            |
+| Custom indexes - threshold                     | 10% of records          | query            |
 | Custom indexes - cutoff (index not used)       | 333,000 records         | query            |
 
+## Limits by volume of users
+| What                                           |         Quota           |           Per    |
+| ---------------------------------------------- | ----------------------: | ---------------: |
+| API calls                                      | 1,000 - 5,000           | User             |
+| Data Storage (internal user)                   | 20-120 MB               | User             |
+| Data Storage (external user)                   | 1-20 MB                 | User             |
+| Binary Storage                                 | 612 MB - 2GB            | User             |
+
+## Benchmarks
+| What                                           |         Benchmark       |           Per    |
+| ---------------------------------------------- | ----------------------: | ---------------: |
+| Transaction duration                           | 300 ms                  | Transaction      |
+| SOAP/REST API throughput (Read)                | 10 million records      | Hour             |
+| SOAP/REST API throughput (Write)               | 2 million records       | Hour             |
+| Bulk API throughput (Read)                     | 60 million records      | Hour             |
+| Bulk API throughput (Write)                    | 20 million records      | Hour             |
