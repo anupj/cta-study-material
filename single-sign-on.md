@@ -1,5 +1,11 @@
 #Single Sign-On
 
+## Standards
+* [OAuth 2 Simplified](https://aaronparecki.com/2012/07/29/2/oauth2-simplified)
+* [OAuth 2 Specification](http://tools.ietf.org/html/draft-ietf-oauth-v2)
+* [SAML 2: The Building Blocks of Federated Identity](http://www.xml.com/pub/a/2005/01/12/saml2.html)
+* [Introduction to SAML - Chalktalk on what is it, how it is used](https://www.youtube.com/watch?v=S9BpeOmuEz4)
+
 ## Key Flows
 * SAML IDP-initiated assertion flow
 * SAML SP-initiated assertion flow
@@ -9,12 +15,6 @@
 * OAuth JWT token bearer flow
 * OAuth SAML assertion bearer flow
 * OAuth SAML assertion flow
-
-## Standards
-* [OAuth 2 Simplified](https://aaronparecki.com/2012/07/29/2/oauth2-simplified)
-* [OAuth 2 Specification](http://tools.ietf.org/html/draft-ietf-oauth-v2)
-* [SAML 2: The Building Blocks of Federated Identity](http://www.xml.com/pub/a/2005/01/12/saml2.html)
-* [Introduction to SAML - Chalktalk on what is it, how it is used](https://www.youtube.com/watch?v=S9BpeOmuEz4)
 
 ## Implementation Guides
 
