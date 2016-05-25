@@ -1,5 +1,15 @@
 #Single Sign-On
 
+## Key Flows
+* SAML IDP-initiated assertion flow
+* SAML SP-initiated assertion flow
+* OAuth Web Server flow
+* OAuth User-Agent flow
+* OAuth Username and password flow
+* OAuth JWT token bearer flow
+* OAuth SAML assertion bearer flow
+* OAuth SAML assertion flow
+
 ## Standards
 * [OAuth 2 Simplified](https://aaronparecki.com/2012/07/29/2/oauth2-simplified)
 * [OAuth 2 Specification](http://tools.ietf.org/html/draft-ietf-oauth-v2)
