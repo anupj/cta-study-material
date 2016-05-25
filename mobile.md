@@ -21,4 +21,5 @@
 * [Secure, Offline, Cross-Platform Apps with Salesforce Mobile SDK and Web Components](https://developer.salesforce.com/docs/atlas.en-us.mobile_sdk.meta/mobile_sdk/offline_intro.htm)
 
 ## Trailheads
+* [Mobile SDK Trail](https://developer.salesforce.com/trailhead/trail/mobile_sdk_intro)
 * [Offline Management](https://developer.salesforce.com/trailhead/en/module/mobile_sdk_offline)
