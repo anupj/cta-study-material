@@ -65,7 +65,9 @@ This table summarises the fundamental design limits and benchmarks that an archi
 ## Benchmarks
 | What                                           |         Benchmark       |           Per    |
 | ---------------------------------------------- | ----------------------: | ---------------: |
-| Transaction duration                           | 300 ms                  | Transaction      |
+| Total transactions                             | 4 billion               | Day              |
+| Transaction per second                         | 1 M                     | Second           |
+| Transaction duration                           | <300 ms                 | Transaction      |
 | SOAP/REST API throughput (Read)                | 10 million records      | Hour             |
 | SOAP/REST API throughput (Write)               | 2 million records       | Hour             |
 | Bulk API throughput (Read)                     | 60 million records      | Hour             |
