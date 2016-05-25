@@ -58,15 +58,15 @@ This table summarises the fundamental design limits and benchmarks that an archi
 | What                                           |         Quota           |           Per    |
 | ---------------------------------------------- | ----------------------: | ---------------: |
 | API calls                                      | 1,000 - 5,000           | User             |
-| Data Storage (internal user)                   | 20-120 MB               | User             |
-| Data Storage (external user)                   | 1-20 MB                 | User             |
-| Binary Storage                                 | 612 MB - 2GB            | User             |
+| Data Storage (internal user)                   | 20 - 120 MB             | User             |
+| Data Storage (external user)                   | 1 - 20 MB               | User             |
+| File Storage                                   | 612 MB - 2GB            | User             |
 
 ## Benchmarks
 | What                                           |         Benchmark       |           Per    |
 | ---------------------------------------------- | ----------------------: | ---------------: |
 | Total transactions                             | 4 billion               | Day              |
-| Transaction per second                         | 1 M                     | Second           |
+| Transactions per second                        | 1,000,000               | Second           |
 | Transaction duration                           | <300 ms                 | Transaction      |
 | SOAP/REST API throughput (Read)                | 10 million records      | Hour             |
 | SOAP/REST API throughput (Write)               | 2 million records       | Hour             |
