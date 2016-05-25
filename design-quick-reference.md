@@ -27,7 +27,7 @@ This table summarises the fundamental design limits and benchmarks that an archi
 | Knowledge articles                             | 50,000                  | Org              |
 | Knowledge languages                            | 16                      | Org              |
 | Knowledge article types                        | 100                     | Org              |
-| Knowledge attachment size                      | 5 MB                    | Attachment       |
+| Knowledge attachment size                      | 25 MB                   | Attachment       |
 | CRM content libraries                          | 2,000                   | Org              |
 | CRM content files                              | 2,000,000               | Org              |
 | CRM content files per pack                     | 50                      | Content Pack     |
