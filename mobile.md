@@ -10,7 +10,7 @@
 ## Guides
 * [Lightning Components Developer Guide](https://resources.docs.salesforce.com/sfdc/pdf/lightning.pdf)
 * [Salesforce Classic Implementation Guide](http://resources.docs.salesforce.com/200/12/en-us/sfdc/pdf/salesforce_mobile_implementation.pdf)
-* [](file:///Users/lorenzo/Downloads/mobile_sdk.pdf)
+* [Salesforce Mobile SDK](https://developer.salesforce.com/page/Mobile_SDK)
 
 ## Webinars
 * [Intro to Salesforce Mobile SDK: Building Hybrid Apps Webinar](https://www.youtube.com/watch?v=ipzK8Jok2gM)
