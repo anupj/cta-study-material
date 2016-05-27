@@ -1,4 +1,4 @@
-#Integrations
+#Integration Architecture
 
 ## White Papers
 
