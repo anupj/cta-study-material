@@ -1,4 +1,4 @@
-# Solution Architecture
+# Application Architecture
 
 ## White Papers
 
