@@ -1,10 +1,7 @@
 #Apex and Visualforce Architecture
 
-## White Papers
+## White Papers & Implementation Guides
 * [Visualforce Performance: Best Practices](https://resources.docs.salesforce.com/sfdc/pdf/salesforce_visualforce_best_practices.pdf)
- 
-
-## Implementation Guides
 * [Custom Metadata Implementation Guide](http://resources.docs.salesforce.com/200/9/en-us/sfdc/pdf/custom_metadata_types_impl_guide.pdf)
 
 ## Webinars
