@@ -1,4 +1,4 @@
-# Communities & Portals
+# Communities Architecture
 
 ## White Papers
 
