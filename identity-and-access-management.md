@@ -1,4 +1,4 @@
-#Single Sign-On
+#Identity and Access Management
 
 ## Standards
 * [OAuth 2 Simplified](https://aaronparecki.com/2012/07/29/2/oauth2-simplified)
