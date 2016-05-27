@@ -30,7 +30,4 @@
 
 * [Apex Developer Guide: Make Long-Running Callouts from a Visualforce Page](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_continuation_overview.htm)
 * [Apex Developer Guide: Named Credentials as Callout Endpoints](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials.htm)
-
-## Integration Security
-
 * [Making Authenticated Web Service Callouts Using Two-Way SSL](https://developer.salesforce.com/page/Making_Authenticated_Web_Service_Callouts_Using_Two-Way_SSL)
