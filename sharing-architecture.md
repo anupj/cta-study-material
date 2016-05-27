@@ -1,4 +1,4 @@
-# Sharing Architecture
+# Sharing and Visibility
 
 ## White Papers
 
