@@ -1,4 +1,4 @@
-#Mobile
+#Mobile Strategy Architecture
 
 ## Mobile SDK Key Features
 * SmartStore - secure storage with the Force.com Mobile SDK
