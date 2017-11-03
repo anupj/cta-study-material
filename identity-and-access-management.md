@@ -33,6 +33,7 @@
 ## Articles
 
 * [Connected Apps](https://developer.salesforce.com/page/Connected_Apps)
+* [An introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 * [Digging Deeper into OAuth 2.0 on Force.com](https://developer.salesforce.com/page/Digging_Deeper_into_OAuth_2.0_on_Force.com)
 * [How to implement Single Sign-On with Force.com](https://developer.salesforce.com/page/How_to_Implement_Single_Sign-On_with_Force.com) (Delegated Authentication)
 * [Integrating Multiple Orgs using the OAuth 2.0 SAML Bearer Assertion Flow](https://developer.salesforce.com/blogs/isv/2015/04/integrating-multi-orgs-using-oauth.html)
