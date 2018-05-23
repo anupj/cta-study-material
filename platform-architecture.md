@@ -8,7 +8,7 @@
 * [Query & Search Optimisation Cheatsheet](http://resources.docs.salesforce.com/194/0/en-us/sfdc/pdf/salesforce_query_search_optimization_developer_cheatsheet.pdf)
 * [Record Locking Cheatsheet](http://resources.docs.salesforce.com/194/0/en-us/sfdc/pdf/record_locking_cheatsheet.pdf)
 
-##Webinars
+## Webinars
 
 * [Custom Platform](http://dreamforce.vidyard.com/watch/Wzzbh7ebd1PgNRBllkwQ8g)
 * [How Salesforce Does Data Protection and Backup](https://www.youtube.com/watch?v=VPwIeGJ3fQY)
@@ -18,7 +18,7 @@ Salesforce](https://www.youtube.com/watch?v=9OtdYeCAZ1A)
 * [SOQL Query Performance Tips and Tricks](https://www.youtube.com/watch?v=uyyXdEIieN4)
 * [Understanding Multitenancy and the Architecture of the Salesforce Platform](https://www.youtube.com/watch?v=jeysYua6ENs)
 
-##Articles
+## Articles
 * [An Introduction to the Force.com Database](https://developer.salesforce.com/page/An_Introduction_to_Force_Database)
 * [Behind the Scenes of Record Ownership in Salesforce](https://developer.salesforce.com/blogs/engineering/2013/10/behind-the-scenes-of-record-ownership-in-salesforce.html)
 * [Dealing with Exception Filters in Force.com](https://developer.salesforce.com/blogs/engineering/2013/05/dealing-with-exception-filters-in-force-com.html)
