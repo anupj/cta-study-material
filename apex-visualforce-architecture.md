@@ -1,4 +1,4 @@
-#Apex and Visualforce Architecture
+# Apex and Visualforce Architecture
 
 ### White Papers
 * [Visualforce Performance: Best Practices](https://resources.docs.salesforce.com/sfdc/pdf/salesforce_visualforce_best_practices.pdf)
@@ -25,7 +25,7 @@
 * [Force.com SOQL Best Practice: Sort Optimization](https://developer.salesforce.com/blogs/engineering/2014/03/force-com-soql-best-practice-sort-optimization.html)
 * [Working with Very Large SOQL Queries](http://www.salesforce.com/us/developer/docs/apexcode/Content/langCon_apex_SOQL_VLSQ.htm)
 
-##Security
+## Security
 
 ### Key Concepts
 * XSS
