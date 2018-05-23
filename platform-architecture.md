@@ -1,4 +1,4 @@
-#Platform Architecture
+# Platform Architecture
 
 ## White Papers
 * [Platform Encryption Architecture White Paper](https://secure.sfdcstatic.com/assets/pdf/misc/Platform_Encryption_Architecture_White_Paper.pdf)
