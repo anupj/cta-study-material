@@ -24,6 +24,7 @@
 * [Force.com SOQL Performance Tips: LastModifiedDate vs SystemModStamp](https://developer.salesforce.com/blogs/engineering/2014/11/force-com-soql-performance-tips-systemmodstamp-vs-lastmodifieddate-2.html)
 * [Query & Search Optimisation Cheatsheet](http://s3.amazonaws.com/dfc-wiki/en/images/0/0e/Db-query-search-optimization-cheat-sheet.pdf)
 * [Working with Very Large SOQL Queries](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_VLSQ.htm)
+* [Force.com SOQL Best Practices: Nulls and Formula Fields](https://developer.salesforce.com/blogs/engineering/2013/02/force-com-soql-best-practices-nulls-and-formula-fields.html)
 
 
 ### Reports & Dashboards
